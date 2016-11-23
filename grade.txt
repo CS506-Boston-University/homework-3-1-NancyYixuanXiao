@@ -1,0 +1,4 @@
+Q1: traveler_ratings.csv     10/10
+Q2: attribute_ratings.csv    25/25 (91,187)
+
+Total:                       35/35
